@@ -1,8 +1,8 @@
-### Hey you! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hey you! 👋
 
 I'm Vinicius (Vini), 22y, and I'm fascinated by programming. I make web applications in Javascript, besides tinkering with Arduino as a hobby 💻🤖. At the moment, I am attending the fifth period of Electrical Engineering at UTFPR ⚡🧲 (5/10).
 
-🔭 I’m currently working with [ReactJs](https://reactjs.org/) with [Typescipt](https://www.typescriptlang.org/docs/), but also I have experience with:
+🔭 I’m currently working on [DXC Technology](https://dxc.com/us/en) with [ReactJs](https://reactjs.org/) with [Typescipt](https://www.typescriptlang.org/docs/), but also I have experience with:
   - [Angular](https://angular.io/docs)
   - [GatsbyJs](https://www.gatsbyjs.com/get-started/)
   - [NextJs](https://nextjs.org/docs/getting-started)
@@ -18,7 +18,6 @@ I'm Vinicius (Vini), 22y, and I'm fascinated by programming. I make web applicat
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
