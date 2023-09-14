@@ -1,6 +1,6 @@
 ### Hey you! 👋
 
-I'm Vinicius (Vini), 23y, and I'm fascinated by programming. I make web applications in Javascript, besides tinkering with Arduino as a hobby 💻🤖. At the moment, I am attending the first year of Software Engineering at FIAP 🐱‍💻 (1/4).
+I'm Vinicius (Vini), 24y, and I'm fascinated by programming. I make web applications in Javascript, besides tinkering with Arduino as a hobby 💻🤖. At the moment, I am attending the first year of Software Engineering at FIAP 🐱‍💻 (1/4).
 
 🔭 I’m currently working on [DXC Technology](https://dxc.com/us/en) with [ReactJs](https://reactjs.org/) using [Typescipt](https://www.typescriptlang.org/docs/) as weel, but also I have experience with:
   - [Angular](https://angular.io/docs)
