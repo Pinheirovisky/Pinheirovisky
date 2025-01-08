@@ -1,6 +1,6 @@
 ### Hey you! 👋
 
-I'm Vinicius (Vini), 25y, and I'm fascinated by programming. I make web applications in Javascript, besides tinkering with Arduino as a hobby 💻🤖. At the moment, I am attending the second year of Software Engineering at FIAP 🐱‍💻 (2/4).
+I'm Vinicius (Vini), 25y, and I'm fascinated by programming. I make web applications in Javascript, besides tinkering with Arduino as a hobby 💻🤖. At the moment, I am attending the third year of Software Engineering at FIAP 🐱‍💻 (3/4).
 
 🔭 I’m currently working on [DXC Technology](https://dxc.com/us/en) with [ReactJs](https://reactjs.org/) using [Typescipt](https://www.typescriptlang.org/docs/) as weel, but also I have experience with:
   - [Angular](https://angular.io/docs)
@@ -8,7 +8,8 @@ I'm Vinicius (Vini), 25y, and I'm fascinated by programming. I make web applicat
   - [NextJs](https://nextjs.org/docs/getting-started)
 
 🌱 I’m currently learning:
-  - To build some APIs with NodeJs, using [Express](https://expressjs.com/en/5x/api.html).
+  - To build some APIs with NodeJs, using [NestJS](https://nestjs.com/).
+  - To build some APP with [Flutter](https://flutter.dev/).
 
 💬 You can find me here:
 
